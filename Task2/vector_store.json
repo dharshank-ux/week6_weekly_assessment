@@ -1,0 +1,62 @@
+{
+  "e20e5b56-b6da-50a3-8ab4-7aae2b23fb31": {
+    "id": "e20e5b56-b6da-50a3-8ab4-7aae2b23fb31",
+    "source": "employee_manual.txt",
+    "chunk_index": 0,
+    "text": "EMPLOYEE MANUAL\n\nSection 1: Employee Responsibilities\n\nEmployees must complete their assigned tasks on time.\nEmployees should communicate clearly with team members.\nEmployees must maintain work quality and productivity.\n\nSection 2: Communication\n\nEmployees should use official email for company communication.\nImportant updates must be shared with the team.\nEmployees should attend scheduled team meetings.\n\nSection 3: Performance"
+  },
+  "adf91f90-4546-5531-a749-46196303c92e": {
+    "id": "adf91f90-4546-5531-a749-46196303c92e",
+    "source": "employee_manual.txt",
+    "chunk_index": 1,
+    "text": "Section 3: Performance\n\nEmployee performance will be reviewed regularly.\nManagers will provide feedback and guidance.\nEmployees are encouraged to improve their technical skills."
+  },
+  "f2e4734c-7ecb-5543-8981-105f4d69f5f1": {
+    "id": "f2e4734c-7ecb-5543-8981-105f4d69f5f1",
+    "source": "hr_guidelines.txt",
+    "chunk_index": 0,
+    "text": "HR GUIDELINES\n\nSection 1: Recruitment\n\nAll job applicants must complete the interview process.\nHR will verify candidate qualifications.\nSelected candidates will receive an offer letter.\n\nSection 2: Employee Onboarding\n\nNew employees must complete onboarding training.\nHR will explain company policies and procedures.\nEmployees must submit required joining documents.\n\nSection 3: Employee Benefits"
+  },
+  "4e7c5494-97db-5441-9642-6244f98a9bc1": {
+    "id": "4e7c5494-97db-5441-9642-6244f98a9bc1",
+    "source": "hr_guidelines.txt",
+    "chunk_index": 1,
+    "text": "Section 3: Employee Benefits\n\nEmployees are eligible for company benefits.\nHR will provide information about insurance and benefits.\nEmployees can contact HR for benefit-related questions."
+  },
+  "1f69fd1c-cc66-50bc-b524-c073ae0eeb81": {
+    "id": "1f69fd1c-cc66-50bc-b524-c073ae0eeb81",
+    "source": "leave_policy.txt",
+    "chunk_index": 0,
+    "text": "LEAVE POLICY\n\nSection 1: Annual Leave\n\nEmployees are eligible for 12 days of annual leave per year.\nLeave requests must be submitted in advance.\nManagers must approve annual leave requests.\n\nSection 2: Sick Leave\n\nEmployees can apply for sick leave when they are unwell.\nMedical certificates may be required for extended sick leave.\nEmployees must inform their manager about sick leave.\n\nSection 3: Leave Approval"
+  },
+  "4a4e9699-16e2-5077-b9ce-264dd888ca2a": {
+    "id": "4a4e9699-16e2-5077-b9ce-264dd888ca2a",
+    "source": "leave_policy.txt",
+    "chunk_index": 1,
+    "text": "Section 3: Leave Approval\n\nAll leave requests must be submitted through HR.\nEmployees should check their leave balance before applying.\nUnapproved leave may be treated as unauthorized absence."
+  },
+  "ea051b12-4367-5496-8072-28d7f735cd4e": {
+    "id": "ea051b12-4367-5496-8072-28d7f735cd4e",
+    "source": "policy.txt",
+    "chunk_index": 0,
+    "text": "COMPANY POLICY\n\nSection 1: Working Hours\n\nEmployees must work 8 hours per day.\nOffice working hours are from 9 AM to 6 PM.\nEmployees must inform their manager if they arrive late.\n\nSection 2: Attendance\n\nAll employees must mark attendance daily.\nEmployees should inform HR about attendance issues.\nRepeated absence without permission may result in disciplinary action.\n\nSection 3: Workplace Rules"
+  },
+  "e72983b6-b02b-5fce-ac16-4e451e25cd31": {
+    "id": "e72983b6-b02b-5fce-ac16-4e451e25cd31",
+    "source": "policy.txt",
+    "chunk_index": 1,
+    "text": "Section 3: Workplace Rules\n\nEmployees must maintain professional behavior.\nCompany resources should be used responsibly.\nEmployees must follow company rules and regulations."
+  },
+  "e0220eb2-b12c-516b-ada5-49b170fe36ab": {
+    "id": "e0220eb2-b12c-516b-ada5-49b170fe36ab",
+    "source": "security_policy.txt",
+    "chunk_index": 0,
+    "text": "INFORMATION SECURITY POLICY\n\nSection 1: Password Security\n\nEmployees must use strong passwords.\nPasswords must not be shared with others.\nPasswords should be changed regularly.\n\nSection 2: Data Protection\n\nCompany data must be protected from unauthorized access.\nConfidential documents must not be shared externally.\nEmployees must follow data protection guidelines.\n\nSection 3: System Security"
+  },
+  "d0d1521a-9166-5ecc-83a6-bb064c749220": {
+    "id": "d0d1521a-9166-5ecc-83a6-bb064c749220",
+    "source": "security_policy.txt",
+    "chunk_index": 1,
+    "text": "Section 3: System Security\n\nEmployees must lock their computers when away.\nSuspicious emails must be reported to IT.\nOnly authorized software should be installed."
+  }
+}

@@ -1,0 +1,19 @@
+INFORMATION SECURITY POLICY
+
+Section 1: Password Security
+
+Employees must use strong passwords.
+Passwords must not be shared with others.
+Passwords should be changed regularly.
+
+Section 2: Data Protection
+
+Company data must be protected from unauthorized access.
+Confidential documents must not be shared externally.
+Employees must follow data protection guidelines.
+
+Section 3: System Security
+
+Employees must lock their computers when away.
+Suspicious emails must be reported to IT.
+Only authorized software should be installed.

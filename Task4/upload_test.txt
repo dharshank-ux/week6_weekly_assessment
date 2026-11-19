@@ -1,0 +1,1 @@
+Week 6 FastAPI document upload test. This document contains sample information for semantic search.
